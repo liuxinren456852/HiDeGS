@@ -1,0 +1,4 @@
+# ninja log v5
+1	5819	1748054947523957257	/home/mass/code/HierGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/simple_knn.o	2d12ddd956f72505
+0	9539	1748054951242994213	/home/mass/code/HierGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/ext.o	f29fe39b0300f36
+1	29723	1748054971421195580	/home/mass/code/HierGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-312/spatial.o	fd4f817ab7860b8a

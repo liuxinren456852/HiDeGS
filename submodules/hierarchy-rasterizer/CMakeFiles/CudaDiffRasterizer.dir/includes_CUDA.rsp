@@ -1,0 +1,1 @@
+-I"/home/mass/code/HierGS/submodules/hierarchy-rasterizer/third_party/glm" -I"/usr/local/cuda-12.1/targets/x86_64-linux/include"

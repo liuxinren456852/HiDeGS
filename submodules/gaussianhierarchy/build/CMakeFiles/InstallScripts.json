@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mass/code/HierGS/submodules/gaussianhierarchy/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

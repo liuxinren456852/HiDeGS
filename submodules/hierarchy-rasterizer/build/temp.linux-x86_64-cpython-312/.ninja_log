@@ -1,0 +1,6 @@
+# ninja log v5
+0	1712	1748054911624603139	/home/mass/code/HierGS/submodules/hierarchy-rasterizer/build/temp.linux-x86_64-cpython-312/cuda_rasterizer/forward.o	6b13cf22c6e0552c
+0	1713	1748054911624603139	/home/mass/code/HierGS/submodules/hierarchy-rasterizer/build/temp.linux-x86_64-cpython-312/cuda_rasterizer/backward.o	c61c5478ebbb7efe
+0	5545	1748054915455640697	/home/mass/code/HierGS/submodules/hierarchy-rasterizer/build/temp.linux-x86_64-cpython-312/cuda_rasterizer/rasterizer_impl.o	ff4fd976150db3aa
+0	10759	1748054920667691885	/home/mass/code/HierGS/submodules/hierarchy-rasterizer/build/temp.linux-x86_64-cpython-312/ext.o	120496e132862201
+0	30456	1748054940359886207	/home/mass/code/HierGS/submodules/hierarchy-rasterizer/build/temp.linux-x86_64-cpython-312/rasterize_points.o	f983e33fcba92e9b

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCudaDiffRasterizer.a CMakeFiles/CudaDiffRasterizer.dir/cuda_rasterizer/backward.cu.o CMakeFiles/CudaDiffRasterizer.dir/cuda_rasterizer/forward.cu.o CMakeFiles/CudaDiffRasterizer.dir/cuda_rasterizer/rasterizer_impl.cu.o
+/usr/bin/ranlib libCudaDiffRasterizer.a

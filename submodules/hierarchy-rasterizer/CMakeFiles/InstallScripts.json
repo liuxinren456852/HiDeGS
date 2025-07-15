@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mass/code/HierGS/submodules/hierarchy-rasterizer/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
