@@ -63,29 +63,27 @@ HiDeGS is a novel 3D reconstruction method specifically designed for UAV multi-v
 - Dynamically adjusts multi-view constraint strength
 - Improves robustness in low-texture regions and edge areas
 
-
 ## 📊 Experimental Results
 
 ### Novel View Synthesis Comparison
 
-<div align="center">
-
 | Method | ISPRS Dataset | | | WHU Dataset | | |
-|--------|--------|------|-------|--------|------|-------|
-| | PSNR↑ | SSIM↑ | LPIPS↓ | PSNR↑ | SSIM↑ | LPIPS↓ |
+|:------:|:-----:|:----:|:-----:|:-----:|:----:|:-----:|
+| | **PSNR** ⬆️ | **SSIM** ⬆️ | **LPIPS** ⬇️ | **PSNR** ⬆️ | **SSIM** ⬆️ | **LPIPS** ⬇️ |
 | 3DGS | 25.35 | 0.802 | 0.200 | 23.77 | 0.708 | 0.348 |
 | PGSR | 25.41 | 0.850 | 0.235 | 23.96 | 0.722 | 0.335 |
 | GaussianPro | 26.47 | 0.873 | 0.196 | 24.94 | 0.755 | 0.288 |
-| RaDeGS | 26.37 | 0.879 | **0.144** | 25.17 | 0.781 | **0.254** |
-| **HiDeGS (Ours)** | **26.69** | **0.887** | 0.145 | **25.72** | **0.808** | 0.261 |
+| RaDeGS | 26.37 | 0.879 | 0.144 🥈 | 25.17 | 0.781 | 0.254 🥈 |
+| **HiDeGS (Ours)** 🏆 | **26.69** 🥇 | **0.887** 🥇 | 0.145 | **25.72** 🥇 | **0.808** 🥇 | 0.261 |
 
-</div>
-
-### Novel View Synthesis Comparisons
+> 🏆 **Our method achieves state-of-the-art performance** on both ISPRS and WHU datasets  
+> 🥇 Best results | 🥈 Second best
 
 ---
 
 ## 🎬 Demo Videos
+
+> ⏳ **Loading Notice:** Demo GIFs are large files (may take 10-30 seconds to load). Please wait patiently while they appear.
 
 ### Scene Reconstruction Demos
 
@@ -94,7 +92,7 @@ HiDeGS is a novel 3D reconstruction method specifically designed for UAV multi-v
     <source srcset="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/zhl-h-3dgs11.gif?raw=true" type="image/gif">
     <img src="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/zhl-h-3dgs11-thumb.jpg?raw=true" 
          width="100%" 
-         alt="ZHL 演示">
+         alt="ZHB 演示">
   </picture>
   <p><i>ZHL</i></p>
 </div>
@@ -122,10 +120,10 @@ WHU_Dataset/
 ├── PF/          # 牌坊
 ├── SQ/          # 宋卿体育馆
 ├── XH/          # 星湖楼
-├── XZL/         # 行政楼
+├── XZB/         # 行政楼
 ├── YD/          # 樱顶博士宿舍
 ├── ZE/          # 卓尔体育馆
-├── ZHL/         # 振华楼
+├── ZHB/         # 振华楼
 └── GXB/         # 工学部教学楼
 ```
 
