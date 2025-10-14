@@ -90,16 +90,28 @@ HiDeGS is a novel 3D reconstruction method specifically designed for UAV multi-v
 ### Scene Reconstruction Demos
 
 <div align="center">
-  <img src="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/zhl-h-3dgs11.gif?raw=true" width="100%" alt="3D Gaussian Splatting Demo">
+  <picture>
+    <source srcset="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/zhl-h-3dgs11.gif?raw=true" type="image/gif">
+    <img src="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/zhl-h-3dgs11-thumb.jpg?raw=true" 
+         width="100%" 
+         alt="ZHL 演示">
+  </picture>
   <p><i>ZHL</i></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/xh-h-pgsr.gif" width="100%" alt="3D Gaussian Splatting Demo">
+  <picture>
+    <source srcset="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/xh-h-pgsr.gif?raw=true" type="image/gif">
+    <img src="https://github.com/SongJiang-WHU/HiDeGS/blob/master/demos/xh-h-pgsr-thumb.jpg?raw=true" 
+         width="100%" 
+         alt="XH 演示">
+  </picture>
   <p><i>XH</i></p>
 </div>
 
 ---
+
+
 ## 🗄️ WHU Dataset
 
 We introduce the **Wuhan University UAV Dataset (WHU_Dataset)** covering 8 typical scenarios including building complexes, vegetation, plazas, and more.
@@ -107,14 +119,14 @@ We introduce the **Wuhan University UAV Dataset (WHU_Dataset)** covering 8 typic
 ### Dataset Structure
 ```
 WHU_Dataset/
-├── PF/          # Plaza with Fountain
-├── SQ/          # Square Scene
-├── XH/          # XiangHu Lake
-├── XZB/         # XinZhaiBu
-├── YD/          # YunDi
-├── ZE/          # ZongEr
-├── ZHB/         # ZhaoHuBao
-└── GXB/         # GuanXueBu
+├── PF/          # 牌坊
+├── SQ/          # 宋卿体育馆
+├── XH/          # 星湖楼
+├── XZL/         # 行政楼
+├── YD/          # 樱顶博士宿舍
+├── ZE/          # 卓尔体育馆
+├── ZHL/         # 振华楼
+└── GXB/         # 工学部教学楼
 ```
 
 ### Dataset Characteristics
