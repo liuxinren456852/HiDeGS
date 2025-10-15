@@ -172,7 +172,7 @@ pip install -r requirements.txt
 
 ## 💻 Usage
 
-### Training
+### Training （We will upload the train.py file after the paper is accepted）
 ```bash
 python train.py \
     --source_path /path/to/your/data \
