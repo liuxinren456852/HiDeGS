@@ -8,11 +8,12 @@
 
 </div>
 
-[**Jiang Song**]()*<sup>1</sup> · [**Changjun Chen***]()<sup>1</sup> · [**Hong Xie**]()<sup>1,2</sup> · [**Zongqian Zhan**]()<sup>1</sup> · [**Ronglin Zhang**]()<sup>3</sup> · [**Chengcheng Luo**]()<sup>1</sup> · [**Yuquan Zhou**]()<sup>1</sup> · [**Linxia Ji**]()<sup>1</sup> · [**Li Yan**]()<sup>*,1,2</sup>
+[**Jiang Song**]()*<sup>1</sup> · [**Changjun Chen***]()<sup>1</sup> · [**Hong Xie**]()<sup>1,2</sup> · [**Zongqian Zhan**]()<sup>1</sup> · [**Ronglin Zhang**]()<sup>3</sup> · [**Shuo Wang**]()<sup>4</sup> · [**Chengcheng Luo**]()<sup>1</sup> · [**Yuquan Zhou**]()<sup>1</sup> · [**Linxia Ji**]()<sup>1</sup> · [**Li Yan**]()<sup>*,1,2</sup>
 
 <sup>1</sup>School of Geodesy and Geomatics, Wuhan University, 129 Luoyu Rd, Wuhan, 430079, China  
 <sup>2</sup>Hubei Luojia Laboratory, 129 Luoyu Rd, Wuhan, 430079, China  
 <sup>3</sup>Department of Land Surveying & Geo-Informatics, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China
+<sup>4</sup>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan 430079, China
 
 *Corresponding author
 
@@ -21,7 +22,7 @@
 ## 🏗️ Method Overview
 
 <div align="center">
-<img src="assets/pipeline.png" width="90%">
+<img src="assets/pipeline.png" width="100%">
 <p><i>Figure 1: Overall architecture of HiDeGS framework</i></p>
 </div>
 
@@ -94,7 +95,7 @@ HiDeGS is a novel 3D reconstruction method specifically designed for UAV multi-v
          width="100%" 
          alt="ZHB 演示">
   </picture>
-  <p><i>ZHL</i></p>
+  <p><i>ZHB</i></p>
 </div>
 
 <div align="center">
